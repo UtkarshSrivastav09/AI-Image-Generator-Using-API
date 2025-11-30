@@ -29,7 +29,7 @@ This project fetches royalty-free images from the **Pexels API** and displays th
 <h1>⚙️ How to Use</h1>
 1. Clone this repository:
 ```bash
-git clone https://github.com/UtkarshSrivastav09/AI-Image-Generator.git
+git clone https://github.com/UtkarshSrivastav09/AI-Image-Generator-Using-API.git
 
 
 <h1>🔥 Live Demo</h1>
