@@ -33,6 +33,7 @@ git clone https://github.com/UtkarshSrivastav09/AI-Image-Generator-Using-API.git
 
 
 <h1>🔥 Live Demo</h1>
+ https://utkarshsrivastav09.github.io/AI-Image-Generator-Using-API/
 
 
 <h1>👨‍💻 Author</h1>
